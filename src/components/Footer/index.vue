@@ -14,8 +14,7 @@
         >
           {{ config.author }}
         </a> -->
-      </span
-      >&nbsp;
+      </span>
       <!-- 站点备案 -->
       <a href="https://svxte.ch" target="_blank"
         >SVX TECH</a
